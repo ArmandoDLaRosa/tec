@@ -1,5 +1,5 @@
 1) Big Data
-  * Archivo .twbx
+  * Archivo .twb
 2) Deep Learning
   * https://github.com/ArmandoDLaRosa/hotels-id-kaggle
 3) Natural Language Processing
